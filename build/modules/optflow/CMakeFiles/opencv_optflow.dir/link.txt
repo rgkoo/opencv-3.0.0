@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq ../../lib/libopencv_optflow.a  CMakeFiles/opencv_optflow.dir/src/deepflow.cpp.o CMakeFiles/opencv_optflow.dir/src/interfaces.cpp.o CMakeFiles/opencv_optflow.dir/src/motempl.cpp.o CMakeFiles/opencv_optflow.dir/src/optical_flow_io.cpp.o CMakeFiles/opencv_optflow.dir/src/simpleflow.cpp.o CMakeFiles/opencv_optflow.dir/opencl_kernels_optflow.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libopencv_optflow.a

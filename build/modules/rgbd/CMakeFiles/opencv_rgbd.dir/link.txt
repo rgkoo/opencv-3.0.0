@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq ../../lib/libopencv_rgbd.a  CMakeFiles/opencv_rgbd.dir/src/depth_cleaner.cpp.o CMakeFiles/opencv_rgbd.dir/src/depth_to_3d.cpp.o CMakeFiles/opencv_rgbd.dir/src/linemod.cpp.o CMakeFiles/opencv_rgbd.dir/src/normal.cpp.o CMakeFiles/opencv_rgbd.dir/src/odometry.cpp.o CMakeFiles/opencv_rgbd.dir/src/plane.cpp.o CMakeFiles/opencv_rgbd.dir/src/utils.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libopencv_rgbd.a

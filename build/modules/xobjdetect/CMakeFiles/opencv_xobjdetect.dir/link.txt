@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq ../../lib/libopencv_xobjdetect.a  CMakeFiles/opencv_xobjdetect.dir/src/acffeature.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/icfdetector.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/stump.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/waldboost.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libopencv_xobjdetect.a

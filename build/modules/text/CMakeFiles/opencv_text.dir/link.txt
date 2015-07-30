@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq ../../lib/libopencv_text.a  CMakeFiles/opencv_text.dir/src/erfilter.cpp.o CMakeFiles/opencv_text.dir/src/ocr_hmm_decoder.cpp.o CMakeFiles/opencv_text.dir/src/ocr_tesseract.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libopencv_text.a
